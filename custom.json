@@ -9,10 +9,10 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
   },
   "magisk": {
-    "version": "20.299",
-    "versionCode": "20299",
+    "version": "20.3",
+    "versionCode": "203",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
-    "md5": "088fb6545e7042a4939bda7d21423b8b"
+    "md5": "b95652dcdc1071c4d94d8fde1758892a"
   }
 }
